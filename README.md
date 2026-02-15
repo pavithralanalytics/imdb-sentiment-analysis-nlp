@@ -49,4 +49,4 @@ The goal is to classify movie reviews as Positive or Negative using Machine Lear
 ---
 
 ## 🚀 Author
-MBA – Business Analytics Project
+Pavithra L
